@@ -11,6 +11,7 @@
     overflow: hidden;
     background: linear-gradient(to right, #9c27b0, #8ecdff);
 }
+
 nav{
     width: 80%;
     position: sticky;
@@ -19,12 +20,15 @@ nav{
     display: flex;
     align-items: center;
 } 
+
 .logo{
     flex-basis: 20%;
 }
+
 .logo img{
     width:150px;
 }
+
 .nav-links{
     flex:1;
     text-align: right;
@@ -46,6 +50,7 @@ nav{
     left: -10%;
     transform: translateY(-50%);
 }
+
 #circle{
     width:1000px;
     height: 1000px;
@@ -72,6 +77,7 @@ nav{
 .feature div p{
     margin-top: 8px;
 }
+
 .one{
     top: 450px;
     right: 50px;
